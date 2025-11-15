@@ -32,6 +32,8 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 For any questions or uses of the source codes, please feel free to contact the author, Xiaoyu Peng (pengxy19@tsinghua.org.cn), and the corresponding author, Feng Liu (lfeng@mail.tsinghua.edu.cn).
 
+<br />
+
 
 
 ## 主要功能 | Main Features
@@ -45,6 +47,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 - Suitable for automated processing of electromagnetic transient simulation models on the CloudPSS platform.
 
 
+<br />
 
 ## 实现思路 | Implementation Approach
 
@@ -64,7 +67,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 5. Supports batch processing and automatic model saving.
 
-   
+<br />
 
 ## 使用方法 | Usage
 
@@ -78,7 +81,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 3. Run the script to automatically validate and correct parameters.
 4. Check the generated log file for detailed adjustment information.
 
-
+<br />
 
 ## 注意事项 | Notes
 
@@ -87,3 +90,4 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
