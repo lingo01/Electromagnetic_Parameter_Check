@@ -72,14 +72,16 @@ For any questions or uses of the source codes, please feel free to contact the a
 ## 使用方法 | Usage
 
 1. 配置 CloudPSS Python SDK 及相关依赖。
-2. 设置 API Token 和模型标识。
+2. 设置 所用的 CloudPSS 服务器、用户 API Token 以及待检验的模型 ID。
 3. 运行脚本，自动完成参数校验与修正。
 4. 检查生成的日志文件，获取详细调整信息。
+5. 关于 CloudPSS SDK 的更多相关说明见官方文档[CloudPSS知识库](https://kb.cloudpss.net)。
 
 1. Configure the CloudPSS Python SDK and related dependencies.
-2. Set the API token and model identifier.
+2. Set the CloudPSS server, user API token and model ID awaiting for parameter check.
 3. Run the script to automatically validate and correct parameters.
 4. Check the generated log file for detailed adjustment information.
+5. More details about the CloudPSS SDK can be found in official [CloudPSS manuals](https://kb.cloudpss.net)。
 
 <br />
 
@@ -90,6 +92,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
 
 
 
