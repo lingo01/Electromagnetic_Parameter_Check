@@ -8,25 +8,25 @@
 
 [1] Y. Song, Y. Chen, Z. Yu, S. Huang, and C. Shen, ‘CloudPSS: A high-performance power system simulator based on cloud computing’, *Energy Rep.*, vol. 6, pp. 1611–1618, Dec. 2020, doi: [10.1016/j.egyr.2020.12.028](https://doi.org/10.1016/j.egyr.2020.12.028).
 
+<br />
 
-
-#### 免责声明 | Disclaimer
+## 免责声明 | Disclaimer
 
 本代码及其相关文档仅供学术研究与技术交流使用。因使用本代码所引发的任何直接或间接损失、故障、法律责任或其他后果，作者概不负责。使用者需自行承担使用本代码的全部风险。
 
 This code and its related documentation are provided solely for academic research and technical exchange. The author assumes no responsibility for any direct or indirect loss, malfunction, legal liability, or other consequences arising from the use of this code. Users bear all risks associated with using this code.
 
+<br />
 
-
-#### 许可协议 | License
+## 许可协议 | License
 
 本项目采用 [知识共享署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 发布。
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
+<br />
 
-
-#### 联系方式 | Contact
+## 联系方式 | Contact
 
 与本代码相关的问题可联系作者彭啸宇（pengxy19@tsinghua.org.cn）进行咨询。
 
@@ -90,5 +90,6 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
 
 
