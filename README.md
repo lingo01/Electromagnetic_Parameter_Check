@@ -1,8 +1,8 @@
 ## 简介 | Introduction
 
-`DeviceChange.py` 是一个用于 CloudPSS 平台 [1] 电磁暂态仿真模型参数自动校验与修正的 Python 脚本。该工具面向机电暂态仿真文件自动转换为 CloudPSS 电磁暂态文件的场景，能够对模型中的各类元件参数进行批量检查、自动修正异常值，并生成详细的日志，提升模型仿真可靠性和自动化程度。
+`Parameter_Check.py` 是一个用于 CloudPSS 平台 [1] 电磁暂态仿真模型参数自动校验与修正的 Python 脚本。该工具面向机电暂态仿真文件自动转换为 CloudPSS 电磁暂态文件的场景，能够对模型中的各类元件参数进行批量检查、自动修正异常值，并生成详细的日志，提升模型仿真可靠性和自动化程度。
 
-`DeviceChange.py` is a Python script for automatic parameter validation and correction in electromagnetic transient simulation models on the CloudPSS platform [1]. It is designed for scenarios where electromechanical transient simulation files are automatically converted to CloudPSS electromagnetic transient files. The tool batch-checks and auto-corrects abnormal parameters for various components, generating detailed logs to improve model reliability and automation.
+`Parameter_Check.py` is a Python script for automatic parameter validation and correction in electromagnetic transient simulation models on the CloudPSS platform [1]. It is designed for scenarios where electromechanical transient simulation files are automatically converted to CloudPSS electromagnetic transient files. The tool batch-checks and auto-corrects abnormal parameters for various components, generating detailed logs to improve model reliability and automation.
 
 
 
@@ -90,6 +90,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
 
 
 
