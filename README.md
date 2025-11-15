@@ -20,9 +20,9 @@ This code and its related documentation are provided solely for academic researc
 
 #### 许可协议 | License
 
-本项目采用 Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 协议发布，禁止任何商业用途。
+本项目采用 [知识共享署名-非商业性使用 4.0 国际许可协议 (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh) 发布。
 
-This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License, which prohibits any commercial use.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
 
 
 
@@ -90,4 +90,5 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
 
