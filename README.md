@@ -28,7 +28,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 
 ## 联系方式 | Contact
 
-与本代码相关的问题可联系作者彭啸宇（pengxy19@tsinghua.org.cn）进行咨询。
+与本代码相关的问题可联系作者彭啸宇（pengxy19@tsinghua.org.cn）或课题组负责人刘锋（lfeng@mail.tsinghua.edu.cn）进行咨询。
 
 For any questions or uses of the source codes, please feel free to contact the author, Xiaoyu Peng (pengxy19@tsinghua.org.cn), and the corresponding author, Feng Liu (lfeng@mail.tsinghua.edu.cn).
 
@@ -92,6 +92,7 @@ For any questions or uses of the source codes, please feel free to contact the a
 
 - This tool is for automated validation and correction of simulation model parameters only, and does not involve any real power grid data.
 - Please back up the original model file before use to avoid data loss.
+
 
 
 
